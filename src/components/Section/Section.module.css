@@ -1,0 +1,10 @@
+.feedback {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.feedbackTitle {
+    margin-top: 50px;
+}
